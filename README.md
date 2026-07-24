@@ -17,3 +17,6 @@
 - Optimize for performance when necessary.
 - Prioritize security and input validation.
 - Write code that is easy for others to understand and maintain.
+
+- just do it
+- 
